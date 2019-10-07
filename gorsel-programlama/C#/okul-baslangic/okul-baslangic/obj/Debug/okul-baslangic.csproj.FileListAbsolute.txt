@@ -1,0 +1,9 @@
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\kendi-calismalarim\okul-baslangic\okul-baslangic\bin\Debug\okul-baslangic.exe.config
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\kendi-calismalarim\okul-baslangic\okul-baslangic\bin\Debug\okul-baslangic.exe
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\kendi-calismalarim\okul-baslangic\okul-baslangic\bin\Debug\okul-baslangic.pdb
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\kendi-calismalarim\okul-baslangic\okul-baslangic\obj\Debug\okul-baslangic.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\kendi-calismalarim\okul-baslangic\okul-baslangic\obj\Debug\okul_baslangic.Form1.resources
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\kendi-calismalarim\okul-baslangic\okul-baslangic\obj\Debug\okul_baslangic.Properties.Resources.resources
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\kendi-calismalarim\okul-baslangic\okul-baslangic\obj\Debug\okul-baslangic.csproj.GenerateResource.Cache
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\kendi-calismalarim\okul-baslangic\okul-baslangic\obj\Debug\okul-baslangic.exe
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\kendi-calismalarim\okul-baslangic\okul-baslangic\obj\Debug\okul-baslangic.pdb
