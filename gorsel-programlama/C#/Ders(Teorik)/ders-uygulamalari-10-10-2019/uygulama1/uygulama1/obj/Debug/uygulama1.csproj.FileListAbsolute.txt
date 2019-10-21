@@ -1,0 +1,9 @@
+C:\Users\misafir\Desktop\Yeni klasör\uygulama1\uygulama1\bin\Debug\uygulama1.exe.config
+C:\Users\misafir\Desktop\Yeni klasör\uygulama1\uygulama1\bin\Debug\uygulama1.exe
+C:\Users\misafir\Desktop\Yeni klasör\uygulama1\uygulama1\bin\Debug\uygulama1.pdb
+C:\Users\misafir\Desktop\Yeni klasör\uygulama1\uygulama1\obj\Debug\uygulama1.csprojResolveAssemblyReference.cache
+C:\Users\misafir\Desktop\Yeni klasör\uygulama1\uygulama1\obj\Debug\uygulama1.Form1.resources
+C:\Users\misafir\Desktop\Yeni klasör\uygulama1\uygulama1\obj\Debug\uygulama1.Properties.Resources.resources
+C:\Users\misafir\Desktop\Yeni klasör\uygulama1\uygulama1\obj\Debug\uygulama1.csproj.GenerateResource.Cache
+C:\Users\misafir\Desktop\Yeni klasör\uygulama1\uygulama1\obj\Debug\uygulama1.exe
+C:\Users\misafir\Desktop\Yeni klasör\uygulama1\uygulama1\obj\Debug\uygulama1.pdb

@@ -1,0 +1,9 @@
+c:\users\misafir\documents\visual studio 2015\Projects\uygulama-17-10-2019\uygulama-17-10-2019\bin\Debug\uygulama-17-10-2019.exe.config
+c:\users\misafir\documents\visual studio 2015\Projects\uygulama-17-10-2019\uygulama-17-10-2019\bin\Debug\uygulama-17-10-2019.exe
+c:\users\misafir\documents\visual studio 2015\Projects\uygulama-17-10-2019\uygulama-17-10-2019\bin\Debug\uygulama-17-10-2019.pdb
+c:\users\misafir\documents\visual studio 2015\Projects\uygulama-17-10-2019\uygulama-17-10-2019\obj\Debug\uygulama-17-10-2019.csprojResolveAssemblyReference.cache
+c:\users\misafir\documents\visual studio 2015\Projects\uygulama-17-10-2019\uygulama-17-10-2019\obj\Debug\uygulama_17_10_2019.Form1.resources
+c:\users\misafir\documents\visual studio 2015\Projects\uygulama-17-10-2019\uygulama-17-10-2019\obj\Debug\uygulama_17_10_2019.Properties.Resources.resources
+c:\users\misafir\documents\visual studio 2015\Projects\uygulama-17-10-2019\uygulama-17-10-2019\obj\Debug\uygulama-17-10-2019.csproj.GenerateResource.Cache
+c:\users\misafir\documents\visual studio 2015\Projects\uygulama-17-10-2019\uygulama-17-10-2019\obj\Debug\uygulama-17-10-2019.exe
+c:\users\misafir\documents\visual studio 2015\Projects\uygulama-17-10-2019\uygulama-17-10-2019\obj\Debug\uygulama-17-10-2019.pdb

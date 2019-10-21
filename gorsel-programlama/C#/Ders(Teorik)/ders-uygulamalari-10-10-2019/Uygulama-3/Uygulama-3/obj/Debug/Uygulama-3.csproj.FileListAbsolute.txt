@@ -1,0 +1,8 @@
+C:\Users\misafir\Desktop\Yeni klasör\Uygulama-3\Uygulama-3\bin\Debug\Uygulama-3.exe.config
+C:\Users\misafir\Desktop\Yeni klasör\Uygulama-3\Uygulama-3\bin\Debug\Uygulama-3.exe
+C:\Users\misafir\Desktop\Yeni klasör\Uygulama-3\Uygulama-3\bin\Debug\Uygulama-3.pdb
+C:\Users\misafir\Desktop\Yeni klasör\Uygulama-3\Uygulama-3\obj\Debug\Uygulama_3.Form1.resources
+C:\Users\misafir\Desktop\Yeni klasör\Uygulama-3\Uygulama-3\obj\Debug\Uygulama_3.Properties.Resources.resources
+C:\Users\misafir\Desktop\Yeni klasör\Uygulama-3\Uygulama-3\obj\Debug\Uygulama-3.csproj.GenerateResource.Cache
+C:\Users\misafir\Desktop\Yeni klasör\Uygulama-3\Uygulama-3\obj\Debug\Uygulama-3.exe
+C:\Users\misafir\Desktop\Yeni klasör\Uygulama-3\Uygulama-3\obj\Debug\Uygulama-3.pdb

@@ -1,8 +1,0 @@
-C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\kendi-calismalarim\ornek2-1\ornek2-1\bin\Debug\ornek2-1.exe.config
-C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\kendi-calismalarim\ornek2-1\ornek2-1\bin\Debug\ornek2-1.exe
-C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\kendi-calismalarim\ornek2-1\ornek2-1\bin\Debug\ornek2-1.pdb
-C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\kendi-calismalarim\ornek2-1\ornek2-1\obj\Debug\ornek2_1.Form1.resources
-C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\kendi-calismalarim\ornek2-1\ornek2-1\obj\Debug\ornek2_1.Properties.Resources.resources
-C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\kendi-calismalarim\ornek2-1\ornek2-1\obj\Debug\ornek2-1.csproj.GenerateResource.Cache
-C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\kendi-calismalarim\ornek2-1\ornek2-1\obj\Debug\ornek2-1.exe
-C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\kendi-calismalarim\ornek2-1\ornek2-1\obj\Debug\ornek2-1.pdb

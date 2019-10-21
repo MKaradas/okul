@@ -1,0 +1,9 @@
+c:\users\misafir\documents\visual studio 2015\Projects\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\bin\Debug\bilimsel-hesaplama-makinesi.exe.config
+c:\users\misafir\documents\visual studio 2015\Projects\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\bin\Debug\bilimsel-hesaplama-makinesi.exe
+c:\users\misafir\documents\visual studio 2015\Projects\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\bin\Debug\bilimsel-hesaplama-makinesi.pdb
+c:\users\misafir\documents\visual studio 2015\Projects\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\obj\Debug\bilimsel-hesaplama-makinesi.csprojResolveAssemblyReference.cache
+c:\users\misafir\documents\visual studio 2015\Projects\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\obj\Debug\bilimsel_hesaplama_makinesi.Form1.resources
+c:\users\misafir\documents\visual studio 2015\Projects\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\obj\Debug\bilimsel_hesaplama_makinesi.Properties.Resources.resources
+c:\users\misafir\documents\visual studio 2015\Projects\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\obj\Debug\bilimsel-hesaplama-makinesi.csproj.GenerateResource.Cache
+c:\users\misafir\documents\visual studio 2015\Projects\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\obj\Debug\bilimsel-hesaplama-makinesi.exe
+c:\users\misafir\documents\visual studio 2015\Projects\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\obj\Debug\bilimsel-hesaplama-makinesi.pdb
