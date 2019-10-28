@@ -1,0 +1,3 @@
+function nTers=SayininTersininBul(n)
+nTers=0;
+wh
