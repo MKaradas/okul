@@ -1,0 +1,9 @@
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\uyg1-04-11-2019\uyg1-04-11-2019\bin\Debug\uyg1-04-11-2019.exe.config
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\uyg1-04-11-2019\uyg1-04-11-2019\obj\Debug\uyg1-04-11-2019.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\uyg1-04-11-2019\uyg1-04-11-2019\obj\Debug\uyg1_04_11_2019.Form1.resources
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\uyg1-04-11-2019\uyg1-04-11-2019\obj\Debug\uyg1_04_11_2019.Properties.Resources.resources
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\uyg1-04-11-2019\uyg1-04-11-2019\obj\Debug\uyg1-04-11-2019.csproj.GenerateResource.Cache
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\uyg1-04-11-2019\uyg1-04-11-2019\bin\Debug\uyg1-04-11-2019.exe
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\uyg1-04-11-2019\uyg1-04-11-2019\bin\Debug\uyg1-04-11-2019.pdb
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\uyg1-04-11-2019\uyg1-04-11-2019\obj\Debug\uyg1-04-11-2019.exe
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\uyg1-04-11-2019\uyg1-04-11-2019\obj\Debug\uyg1-04-11-2019.pdb
