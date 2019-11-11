@@ -7,3 +7,12 @@ c:\users\misafir\documents\visual studio 2015\Projects\bilimsel-hesaplama-makine
 c:\users\misafir\documents\visual studio 2015\Projects\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\obj\Debug\bilimsel-hesaplama-makinesi.csproj.GenerateResource.Cache
 c:\users\misafir\documents\visual studio 2015\Projects\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\obj\Debug\bilimsel-hesaplama-makinesi.exe
 c:\users\misafir\documents\visual studio 2015\Projects\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\obj\Debug\bilimsel-hesaplama-makinesi.pdb
+C:\Users\Muhammed\Documents\github\okul\okul\gorsel-programlama\C#\Ders(Teorik)\hafta3-17-10-2019\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\bin\Debug\bilimsel-hesaplama-makinesi.exe.config
+C:\Users\Muhammed\Documents\github\okul\okul\gorsel-programlama\C#\Ders(Teorik)\hafta3-17-10-2019\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\obj\Debug\bilimsel-hesaplama-makinesi.exe
+C:\Users\Muhammed\Documents\github\okul\okul\gorsel-programlama\C#\Ders(Teorik)\hafta3-17-10-2019\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\obj\Debug\bilimsel-hesaplama-makinesi.pdb
+C:\Users\Muhammed\Documents\github\okul\okul\gorsel-programlama\C#\Ders(Teorik)\hafta3-17-10-2019\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\bin\Debug\bilimsel-hesaplama-makinesi.exe
+C:\Users\Muhammed\Documents\github\okul\okul\gorsel-programlama\C#\Ders(Teorik)\hafta3-17-10-2019\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\bin\Debug\bilimsel-hesaplama-makinesi.pdb
+C:\Users\Muhammed\Documents\github\okul\okul\gorsel-programlama\C#\Ders(Teorik)\hafta3-17-10-2019\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\obj\Debug\bilimsel-hesaplama-makinesi.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Documents\github\okul\okul\gorsel-programlama\C#\Ders(Teorik)\hafta3-17-10-2019\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\obj\Debug\bilimsel_hesaplama_makinesi.Form1.resources
+C:\Users\Muhammed\Documents\github\okul\okul\gorsel-programlama\C#\Ders(Teorik)\hafta3-17-10-2019\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\obj\Debug\bilimsel_hesaplama_makinesi.Properties.Resources.resources
+C:\Users\Muhammed\Documents\github\okul\okul\gorsel-programlama\C#\Ders(Teorik)\hafta3-17-10-2019\bilimsel-hesaplama-makinesi\bilimsel-hesaplama-makinesi\obj\Debug\bilimsel-hesaplama-makinesi.csproj.GenerateResource.Cache

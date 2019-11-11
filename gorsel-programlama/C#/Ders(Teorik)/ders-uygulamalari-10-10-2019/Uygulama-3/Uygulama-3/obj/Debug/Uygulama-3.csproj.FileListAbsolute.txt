@@ -6,3 +6,6 @@ C:\Users\misafir\Desktop\Yeni klasör\Uygulama-3\Uygulama-3\obj\Debug\Uygulama_3
 C:\Users\misafir\Desktop\Yeni klasör\Uygulama-3\Uygulama-3\obj\Debug\Uygulama-3.csproj.GenerateResource.Cache
 C:\Users\misafir\Desktop\Yeni klasör\Uygulama-3\Uygulama-3\obj\Debug\Uygulama-3.exe
 C:\Users\misafir\Desktop\Yeni klasör\Uygulama-3\Uygulama-3\obj\Debug\Uygulama-3.pdb
+C:\Users\Muhammed\Documents\github\okul\okul\gorsel-programlama\C#\Ders(Teorik)\ders-uygulamalari-10-10-2019\Uygulama-3\Uygulama-3\bin\Debug\Uygulama-3.exe.config
+C:\Users\Muhammed\Documents\github\okul\okul\gorsel-programlama\C#\Ders(Teorik)\ders-uygulamalari-10-10-2019\Uygulama-3\Uygulama-3\obj\Debug\Uygulama-3.exe
+C:\Users\Muhammed\Documents\github\okul\okul\gorsel-programlama\C#\Ders(Teorik)\ders-uygulamalari-10-10-2019\Uygulama-3\Uygulama-3\obj\Debug\Uygulama-3.pdb
