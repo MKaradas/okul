@@ -1,9 +1,0 @@
-C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru2\soru2\bin\Debug\soru2.exe.config
-C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru2\soru2\bin\Debug\soru2.exe
-C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru2\soru2\bin\Debug\soru2.pdb
-C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru2\soru2\obj\Debug\soru2.csprojResolveAssemblyReference.cache
-C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru2\soru2\obj\Debug\soru2.Form1.resources
-C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru2\soru2\obj\Debug\soru2.Properties.Resources.resources
-C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru2\soru2\obj\Debug\soru2.csproj.GenerateResource.Cache
-C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru2\soru2\obj\Debug\soru2.exe
-C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru2\soru2\obj\Debug\soru2.pdb
