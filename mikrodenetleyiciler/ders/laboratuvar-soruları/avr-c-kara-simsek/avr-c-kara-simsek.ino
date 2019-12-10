@@ -24,25 +24,25 @@ int main()
    for(int j=5;j>=0;j--)
     {
       PORTB |= (1<<j);
-      _delay_ms(83);
+      _delay_ms(50);
       PORTB &= ~(1<<j);
     }
     for(int j=7;j>1;j--)
     {
       PORTD |= (1<<j);
-      _delay_ms(83);
+      _delay_ms(50);
       PORTD &= ~(1<<j);
     }
     for(int z=2;z<8;z++)
     {
       PORTD |= (1<<z);
-      _delay_ms(83);
+      _delay_ms(50);
       PORTD &= ~(1<<z);
     }
     for(int z=0;z<6;z++)
     {
       PORTB |= (1<<z);
-      _delay_ms(83);
+      _delay_ms(50);
       PORTB &= ~(1<<z); 
     }
   }
