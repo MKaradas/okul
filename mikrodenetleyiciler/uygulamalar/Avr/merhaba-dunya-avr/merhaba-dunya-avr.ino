@@ -1,30 +1,47 @@
-//Turn the led on and off for 1 second using Timer 1 in Normal Mode
-//Clock Frequency (Fcpu)=16 MHz, Prescaler=1024
+#define F_CPU 16000000UL
 #include <avr/io.h>
+
+/*
+  PORTB 8-13 Dijital pinler
+  PORTC Analog
+  PORTD 0-7 Dijital pinler
+*/
+
 int main()
 {
-  for(int i=2;i<8;i++)
+  
+  for(int i=0;i<=5;i++)
   {
-    DDRD |= (1<<i);
-  }
-  for(int i=0;i<6;i++)
-  {
+    DDRD |= (1<<i+2);
     DDRB |= (1<<i);
   }
-  //DDRB|=(1<<5);//Set Pin 13 as OUTPUT
-  //PORTB&=~(1<<5);//Set Pin 13 as LOW  
-  TCCR1B|=((1<<CS12)|(1<<CS10));//Set Timer 1 scaler as Fcpu/1024
+  TCCR1B|=((1<<CS12)|(1<<CS10));
   while(1)
   {
-    TCNT1=49911;//65536-15625
-    while((TIFR1&(1<<TOV1))==0);//Polling
-    TIFR1|=(1<<TOV1);//Clear the overflow flag?
-    //PORTB^=(1<<5);//Toogle pin 13
-    for(int j=5;j>=0;j--)
+   
+   for(int j=5;j>=0;j--)
     {
       PORTB |= (1<<j);
-      _delay_ms(50);
+      _delay_ms(83);
       PORTB &= ~(1<<j);
+    }
+    for(int j=7;j>=2;j--)
+    {
+      PORTD |= (1<<j);
+      _delay_ms(83);
+      PORTD &= ~(1<<j);
+    }
+    for(int z=2;z<8;z++)
+    {
+      PORTD |= (1<<z);
+      _delay_ms(83);
+      PORTD &= ~(1<<z);
+    }
+    for(int z=0;z<6;z++)
+    {
+      PORTB |= (1<<z);
+      _delay_ms(83);
+      PORTB &= ~(1<<z); 
     }
   }
   return 0;
